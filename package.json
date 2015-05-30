@@ -1,0 +1,25 @@
+{
+  "name": "facebook-crawler",
+  "version": "1.0.0",
+  "description": "Toy project",
+  "main": "server.js",
+  "dependencies": {
+    "async": "^1.0.0",
+    "facebook-chat-api": "git://github.com/schmavery/facebook-chat-api"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bsansouci/facebook-crawler.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bsansouci/facebook-crawler/issues"
+  },
+  "homepage": "https://github.com/bsansouci/facebook-crawler"
+}
